@@ -1,0 +1,5 @@
+#pragma once
+
+#define SRC_DIR "${CMAKE_SOURCE_DIR}"
+#define DATA_DIR "${CMAKE_SOURCE_DIR}/data"
+#define SHADER_DIR "${CMAKE_SOURCE_DIR}/data/shader/"
